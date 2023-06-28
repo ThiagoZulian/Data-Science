@@ -15,6 +15,7 @@ Abaixo estão algumas fontes de conhecimento pra estudar os conteúdos do Roadma
 - [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
 - [PyData](https://www.youtube.com/@PyDataTV)
 - [Let's Data](https://www.youtube.com/@letsdataAI)
+- [Comunidade DS](https://www.youtube.com/@ComunidadeDS)
 
 ## Cursos
 - [Coursera](https://www.coursera.org/)
