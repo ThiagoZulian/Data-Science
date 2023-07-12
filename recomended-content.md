@@ -22,3 +22,6 @@ Abaixo estão algumas fontes de conhecimento pra estudar os conteúdos do Roadma
 - [edX](https://www.edx.org/search?tab=course)
 - [Kaggle Courses](https://www.kaggle.com/learn)
 - [Data Science Academy](https://www.datascienceacademy.com.br/)
+
+## GitHub Repositories
+- [Microsoft](https://github.com/microsoft/Data-Science-For-Beginners/tree/main)
