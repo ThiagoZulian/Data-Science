@@ -25,3 +25,9 @@ Abaixo estão algumas fontes de conhecimento pra estudar os conteúdos do Roadma
 
 ## GitHub Repositories
 - [Microsoft](https://github.com/microsoft/Data-Science-For-Beginners/tree/main)
+
+
+
+
+
+- [Interactive Data Science](https://github.com/GeostatsGuy/DataScienceInteractivePython/tree/main)
